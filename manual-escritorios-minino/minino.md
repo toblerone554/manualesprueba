@@ -118,16 +118,16 @@ Cuenta de usuario
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Usuario: invitado                                                        |
-|                                                                          |
-| Contraseña: osloslugr                                                    |
-+--------------------------------------------------------------------------+
+
+ Usuario: invitado                                                        
+                                                                          
+ Contraseña: osloslugr                                                    
+
 
 Es posible que el sistema tarde cierto tiempo en cargarse completamente.
  Debido a la capacidad de los equipos, no al sistema operativo en si.
 
-Poner en hora el equipo {.c5 .c16}
+Poner en hora el equipo 
 -----------------------
 
 Si la hora indicada en la derecha del panel inferior no es correcta
@@ -137,9 +137,9 @@ Diríjase a:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Menú de Minino / Utilidades de Minino / Hora y fecha                     |
-+--------------------------------------------------------------------------+
+
+ Menú de Minino / Utilidades de Minino / Hora y fecha                     
+
 
 Tal y como se muestra en la siguiente imagen:
 
@@ -154,9 +154,9 @@ esto una ventaja, para usuarios noveles:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Contraseña: osloslugr                                                    |
-+--------------------------------------------------------------------------+
+
+ Contraseña: osloslugr                                                    
+
 
 ![](images/image12.png)
 
@@ -172,7 +172,7 @@ abarcan distintas necesidades a la hora de trabajar o de utilizar
 ordenador como equipo ofimático básico, para uso educativo, etc. A
 continuación puede conocer mejor alguno de los más básicos y útiles.
 
-IceWeasel {.c5 .c16}
+IceWeasel 
 ---------
 
              Iceweasel es uno de los navegadores que viene con el
@@ -184,57 +184,59 @@ Para usar la aplicación diríjase a:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Menú de Minino / Internet / Iceweasel                                    |
-+--------------------------------------------------------------------------+
+
+ Menú de Minino / Internet / Iceweasel                                    
+
 
 Para más información, diríjase al folleto informativo nº 3
 proporcionado.
 
-                   LibreOffice {.c5 .c16 .c37}
-------------------------------
+LibreOffice
+
 
 Esta suite ofimática incluye una serie de aplicaciones tales como
 Writer, Impress, Draw, Calc y Base. Estas aplicaciones le permitirán
 trabajar con textos, presentaciones y hojas de cálculos entre otras.
 Siendo compatible con otros paquetes ofimáticos e incluyendo la
-posibilidad de convertir a PDF directamente.![](images/image06.png)
+posibilidad de convertir a PDF directamente.
+
+![](images/image06.png)
 
 Para usar la aplicación diríjase a:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Menú de Minino / Oficina / LibreOffice Writer                            |
-+--------------------------------------------------------------------------+
+
+Menú de Minino / Oficina / LibreOffice Writer                            
+
 
 Seleccione en este último lugar la aplicación que desee según quiera
 trabajar con textos (Writer), hojas de cálculo (Calc), presentaciones
 (Impress), dibujos (Draw) o bases de datos. Para más información,
 diríjase a los folletos formativos nº 5, 6, 7 proporcionados.
 
- {.c23 .c5 .c16}
 
-Geany {.c5 .c16}
+
+Geany 
 -----
 
 Geany es una aplicación que sirve para editar ficheros de texto plano.
 Con Geany podemos crear desde simples documentos de texto sin ningún
 tipo de formato, redactar o tomar notas respecto de algo hasta poder
 editar archivos de páginas web o archivos pertenecientes a un programa.
+
 ![](images/image09.png)
 
 Para usar la aplicación diríjase a:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Menú de Minino / Desarrollo / Geany                                      |
-+--------------------------------------------------------------------------+
 
- {.c23 .c5 .c16}
+ Menú de Minino / Desarrollo / Geany                                      
 
-Gimp {.c5 .c16}
+
+
+Gimp 
 ----
 
 Gimp es un programa de dibujo a mano alzada y retoque fotográfico,
@@ -258,20 +260,16 @@ Para usar la aplicación diríjase a:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-|  Menú de Minino/ Gráficos/ Gimp                                          |
-+--------------------------------------------------------------------------+
+
+  Menú de Minino/ Gráficos/ Gimp                                          
+
 
 Para más información, diríjase al folleto informativo nº 4
 proporcionado.
 
- {.c23 .c5}
+ 
 
- {.c23 .c5}
-
- {.c23 .c5}
-
-Vlc {.c5}
+Vlc 
 ---
 
 Vlc es un programa para reproducir tanto música o vídeos en una gran
@@ -284,17 +282,17 @@ Para usar la aplicación diríjase a:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Menú de Minino / Sonido y video / Reproductor multimedia VLC             |
-+--------------------------------------------------------------------------+
+
+ Menú de Minino / Sonido y video / Reproductor multimedia VLC             
+
 
 Una vez abierto el programa, puede reproducir música o vídeo desde:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Medio / Abrir archivo                                                    |
-+--------------------------------------------------------------------------+
+
+ Medio / Abrir archivo                                                    
+
 
 Y seleccionar el archivo deseado. También puede crear una lista de
 reproducción con todos los archivos reproducibles de un directorio
@@ -307,7 +305,7 @@ bastará con un doble click, en caso contrario, será necesario pulsar con
 el botón derecho del ratón y seleccionar Abrir con / Reproductor
 multimedia Vlc.
 
-Consola (Terminal) {.c5}
+Consola (Terminal) 
 ==================
 
         La terminal es una de las aplicaciones que tiene Linux con más
@@ -319,9 +317,9 @@ reiniciar o apagar el equipo.
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Menú de Minino / Accesorios / Terminal                                   |
-+--------------------------------------------------------------------------+
+
+ Menú de Minino / Accesorios / Terminal                                   
+
 
         O en la barra del menú del escritorio encontraremos el icono que
 hace referencia a la terminal. Esta representa una interfaz parecida a
@@ -383,7 +381,7 @@ los comandos más básicos y usuales.
         Incluso tenemos atajos en la terminal y más cosas al respecto
 pero eso ya se escapa de este manual.
 
- {.c23 .c5 .c16}
+ 
 
 Administración del sistema {.c5 .c16}
 ==========================
@@ -395,9 +393,9 @@ llamada home. Se puede acceder a esta carpeta desde:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Menú de Minino/ Administrador de archivos                                |
-+--------------------------------------------------------------------------+
+
+ Menú de Minino/ Administrador de archivos                                
+
 
         Dentro del sistema de carpetas nos podemos mover entrando a
 ellas de la misma forma que con el resto de sistemas operativos tanto
@@ -417,17 +415,17 @@ usuario “serafin” el sistema operativo pasaría por la ruta de acceso:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| /home/serafin/Fotos/osl.png                                              |
-+--------------------------------------------------------------------------+
+
+ /home/serafin/Fotos/osl.png                                              
+
 
 La carpeta personal del usuario “invitado” se encuentra en la ruta:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| /home/invitado/                                                          |
-+--------------------------------------------------------------------------+
+
+ /home/invitado/                                                          
+
 
 ### Cuenta de superusuario {.c5 .c16}
 
@@ -444,11 +442,11 @@ administración.
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Usuario: invitado                                                        |
-|                                                                          |
-| Contraseña: osloslugr                                                    |
-+--------------------------------------------------------------------------+
+
+ Usuario: invitado                                                        
+                                                                          
+ Contraseña: osloslugr                                                    
+
 
 Para hacer uso de la cuenta de superusuario, tenemos que abrir una
 terminal y en ella escribir la palabra sudo su y como contraseña la
@@ -471,7 +469,7 @@ equipo, para ello escribiremos el comando:
 | exit                                                                     |
 +--------------------------------------------------------------------------+
 
-Instalar programas {.c5 .c16}
+Instalar programas 
 ------------------
 
         Cuando queremos instalar algún programa nuevo podemos hacerlo de
@@ -484,11 +482,11 @@ Recordamos que la contraseña que hay que introducir es:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Contraseña: osloslugr                                                    |
-+--------------------------------------------------------------------------+
 
-### Desde gestor de paquetes Synaptic {.c5 .c16}
+ Contraseña: osloslugr                                                    
+
+
+### Desde gestor de paquetes Synaptic 
 
         Esta aplicación, es una de las más usadas para instalar
 aplicaciones y es la que de hecho se recomienda para esta tarea. Nos
@@ -496,9 +494,9 @@ iremos a:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Menú de Minino / Sistema / Gestor de paquetes Synaptic                   |
-+--------------------------------------------------------------------------+
+
+ Menú de Minino / Sistema / Gestor de paquetes Synaptic                   
+
 
 En el panel izquierdo disponemos de las categorías de los programas para
 instalar, así que si seleccionamos una de ellas, se nos reflejará en el
@@ -533,15 +531,14 @@ siguiente:
 
 ![Busqueda\_Synaptic\_MININO.png](images/image14.png)
 
-###  {.c5 .c41}
-
-Administración avanzada {.c5}
+###  
+Administración avanzada 
 =======================
 
-Otras formas de instalar programas {.c5}
+Otras formas de instalar programas 
 ----------------------------------
 
-### Descargando el paquete desde la página web de la aplicación {.c28 .c5 .c16}
+### Descargando el paquete desde la página web de la aplicación.
 
         Los paquetes son archivos acabados en .deb que al ejecutarlos
 instalan en nuestro ordenador el programa de forma automática. Muchas
@@ -553,7 +550,7 @@ y pulsar posteriormente el botón de instalar paquete que hay en la
 ventana que aparece. Al ejecutar el paquete (el archivo .deb) nos pedirá
 la contraseña antes mencionada.
 
-### Desde consola {.c5 .c16 .c28}
+### Desde consola 
 
         Hay una forma muy sencilla de instalar un programa y es
 utilizando la consola que se ha explicado antes.
@@ -563,18 +560,18 @@ en consola:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| sudo su                                                                  |
-+--------------------------------------------------------------------------+
+
+ sudo su                                                                  
+
 
 A continuación nos pide una contraseña y debemos escribir la contraseña
 de superusuario.
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| osloslugr                                                                |
-+--------------------------------------------------------------------------+
+
+ osloslugr                                                                
+
 
 Para hacer uso de esta forma para instalar programas debemos usar dos
 órdenes, una para buscar el programa en cuestión y luego otra orden para
@@ -585,9 +582,9 @@ ello en la terminal escribiremos el comando:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| apt-cache search \<patrón de búsqueda\>                                  |
-+--------------------------------------------------------------------------+
+
+ apt-cache search \<patrón de búsqueda\>                                  
+
 
         Con patrón de búsqueda se indica que podemos poner una cadena de
 texto y buscar todas las aplicaciones que tienen en su nombre esa
@@ -596,9 +593,9 @@ escribiremos:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| apt-cache search chromium                                                |
-+--------------------------------------------------------------------------+
+
+ apt-cache search chromium                                                
+
 
         Con ellos nos aparecerá un listado de aplicaciones que coinciden
 con ese nombre, entre ellas estará el navegador.
@@ -610,18 +607,18 @@ usar de la siguiente forma:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| apt-get install \<nombre de la aplicación\>                              |
-+--------------------------------------------------------------------------+
+
+ apt-get install \<nombre de la aplicación\>                              
+
 
         Donde \<nombre de la aplicación\> es el nombre de la aplicación
 o programa a instalar. Por ejemplo:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| apt-get install chromium-browser                                         |
-+--------------------------------------------------------------------------+
+
+ apt-get install chromium-browser                                         
+
 
         Sin embargo, es posible que no encuentre el programa indicado.
 Es debido a que el sistema necesita saber dónde puede encontrar ese
@@ -641,17 +638,17 @@ empiezan de esa forma y que conoce en sus repositorios. Un ejemplo:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| apt-get install chr                                                      |
-+--------------------------------------------------------------------------+
+
+ apt-get install chr                                                      
+
 
         Y pulsamos tabulador, en consola se mostrarán aplicaciones que
 comienzan por chr y entre ellas la que estamos buscando, permitiéndonos
 completar el nombre del programa.
 
- {.c23 .c5}
+ 
 
-Sistema de archivos {.c5}
+Sistema de archivos 
 -------------------
 
 Todo sistema operativo tiene lo que se llama el sistema de archivos (o
@@ -679,13 +676,13 @@ La carpeta del administrador se encuentra en:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| /root                                                                    |
-+--------------------------------------------------------------------------+
 
- {.c23 .c5}
+ /root                                                                    
 
-Contacto {.c5}
+
+ 
+
+Contacto 
 ========
 
 En caso de tener alguna pregunta sobre el funcionamiento de los equipos
