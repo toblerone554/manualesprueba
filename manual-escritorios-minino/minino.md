@@ -119,9 +119,9 @@ Cuenta de usuario
 [](#)[](#)
 
 
- Usuario: invitado                                                        
+ Usuario: ******                                                      
                                                                           
- Contraseña: osloslugr                                                    
+ Contraseña: ******                                                    
 
 
 Es posible que el sistema tarde cierto tiempo en cargarse completamente.
@@ -155,7 +155,7 @@ esto una ventaja, para usuarios noveles:
 [](#)[](#)
 
 
- Contraseña: osloslugr                                                    
+ Contraseña: ******                                                    
 
 
 ![](images/image12.png)
@@ -340,17 +340,17 @@ los comandos más básicos y usuales.
 
 -   cd Nos sirve para movernos a través de las carpetas.
 
--   cp /home/invitado/Descargas
+-   cp /home/usuario/Descargas
 
 -   ls Se usa para hacer un listado del contenido de una carpeta.
 
--   ls /home/invitado/Imágenes
+-   ls /home/usuario/Imágenes
 
 -   cat Este comando es útil para mostrar por pantalla el contenido de
     un fichero de texto, se suele usar junto con otros comandos más
     avanzados.
 
--   cat /home/invitado/Documentos/Leeme.txt
+-   cat /home/usuario/Documentos/Leeme.txt
 
 -   cp Sirve para hacer duplicar ficheros.
 
@@ -418,12 +418,12 @@ usuario “serafin” el sistema operativo pasaría por la ruta de acceso:
  /home/serafin/Fotos/osl.png                                              
 
 
-La carpeta personal del usuario “invitado” se encuentra en la ruta:
+La carpeta personal del usuario “************” se encuentra en la ruta:
 
 [](#)[](#)
 
 
- /home/invitado/                                                          
+ /home/******/                                                          
 
 
 ### Cuenta de superusuario 
@@ -442,9 +442,9 @@ administración.
 [](#)[](#)
 
 
- Usuario: invitado                                                        
+ Usuario: ******                                                        
                                                                           
- Contraseña: osloslugr                                                    
+ Contraseña: ******                                                    
 
 
 Para hacer uso de la cuenta de superusuario, tenemos que abrir una
@@ -482,7 +482,7 @@ Recordamos que la contraseña que hay que introducir es:
 [](#)[](#)
 
 
- Contraseña: osloslugr                                                    
+ Contraseña: ******                                                    
 
 
 ### Desde gestor de paquetes Synaptic 
@@ -569,7 +569,7 @@ de superusuario.
 [](#)[](#)
 
 
- osloslugr                                                                
+ ******                                                                
 
 
 Para hacer uso de esta forma para instalar programas debemos usar dos
@@ -715,7 +715,5 @@ José Alonso Arias:
 
 Renato Ramirez: [renatolrr@gmail.com](mailto:renatolrr@gmail.com)
 
-                                                 Manu Cogolludo, José
-Alonso Arias, Renato Ramírez
 
 
