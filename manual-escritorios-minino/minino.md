@@ -164,7 +164,7 @@ esto una ventaja, para usuarios noveles:
 pedir una contraseña se debe de introducir la de superusuario, indicada
 en el recuadro anterior.
 
-Programas básicos instalados {.c5 .c16}
+Programas básicos instalados 
 ============================
 
 El equipo tiene instalados por defecto diversas aplicaciones libres que
@@ -193,7 +193,7 @@ Para más información, diríjase al folleto informativo nº 3
 proporcionado.
 
 LibreOffice ![](images/image06.png)
-
+---
 
 Esta suite ofimática incluye una serie de aplicaciones tales como
 Writer, Impress, Draw, Calc y Base. Estas aplicaciones le permitirán
