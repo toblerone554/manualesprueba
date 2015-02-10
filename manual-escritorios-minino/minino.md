@@ -1,4 +1,4 @@
-Minino: Manual de usuario
+﻿Minino: Manual de usuario
 
 XIII Campaña Ordenadores Libres con Software Libre
 
@@ -10,7 +10,7 @@ una[ ](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%
 [licencia de Creative Commons Reconocimiento-CompartirIgual 4.0
 Internacional](http://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F4.0%2F&sa=D&sntz=1&usg=AFQjCNGcQ-W7bG9H3gB3SCKKIe_RZG589w)
 
-Índice {.c5 .c16}
+Índice 
 ======
 
 [Índice](#h.bdiddubucis6)
@@ -58,22 +58,22 @@ aplicación](#h.kth6rpdumw3o)
 
 [Contacto](#h.p3vbmqdui30j)
 
- {.c5 .c16 .c23}
 
-Iniciar el equipo {.c5 .c16}
+
+Iniciar el equipo 
 =================
 
 Al arrancar el equipo deberá de aparecer una imagen de la Oficina de
 Software Libre con dos opciones de arranque.
 
- 
+
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| Para iniciar el sistema de forma normal seleccionamos la primera opción  |
-| de las dos posibles.                                                     |
-+--------------------------------------------------------------------------+
+
+ Para iniciar el sistema de forma normal seleccionamos la primera opción  
+ de las dos posibles.                                                     
+
 
 Esta primera opción se seleccionará automáticamente al cabo de unos
 segundos si no pulsamos ninguna tecla.
@@ -111,7 +111,7 @@ instalado es Lxde, un entorno ligero que tiene como objetivo ser rápido
 y de bajos recursos del sistema, sin dejar de ser visualmente atractivo
 y fácil de usar.
 
-Cuenta de usuario {.c5 .c16}
+Cuenta de usuario 
 -----------------
 
         Entrará directamente a  la sesión de usuario:
