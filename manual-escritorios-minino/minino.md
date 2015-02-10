@@ -172,13 +172,14 @@ abarcan distintas necesidades a la hora de trabajar o de utilizar
 ordenador como equipo ofimático básico, para uso educativo, etc. A
 continuación puede conocer mejor alguno de los más básicos y útiles.
 
-IceWeasel 
+IceWeasel ![](images/image16.png)
 ---------
 
              Iceweasel es uno de los navegadores que viene con el
 equipo, su funcionalidad prácticamente idéntica a la del gran navegador
 Firefox, ya que con este navegador podremos acceder a internet además de
-poder abrir incluso ficheros de texto y más.![](images/image16.png)
+poder abrir incluso ficheros de texto y más.
+
 
 Para usar la aplicación diríjase a:
 
@@ -191,7 +192,7 @@ Para usar la aplicación diríjase a:
 Para más información, diríjase al folleto informativo nº 3
 proporcionado.
 
-LibreOffice
+LibreOffice ![](images/image06.png)
 
 
 Esta suite ofimática incluye una serie de aplicaciones tales como
@@ -200,7 +201,6 @@ trabajar con textos, presentaciones y hojas de cálculos entre otras.
 Siendo compatible con otros paquetes ofimáticos e incluyendo la
 posibilidad de convertir a PDF directamente.
 
-![](images/image06.png)
 
 Para usar la aplicación diríjase a:
 
@@ -217,7 +217,7 @@ diríjase a los folletos formativos nº 5, 6, 7 proporcionados.
 
 
 
-Geany 
+Geany ![](images/image09.png)
 -----
 
 Geany es una aplicación que sirve para editar ficheros de texto plano.
@@ -225,7 +225,6 @@ Con Geany podemos crear desde simples documentos de texto sin ningún
 tipo de formato, redactar o tomar notas respecto de algo hasta poder
 editar archivos de páginas web o archivos pertenecientes a un programa.
 
-![](images/image09.png)
 
 Para usar la aplicación diríjase a:
 
@@ -236,7 +235,7 @@ Para usar la aplicación diríjase a:
 
 
 
-Gimp 
+Gimp ![](images/image02.jpg)
 ----
 
 Gimp es un programa de dibujo a mano alzada y retoque fotográfico,
@@ -248,7 +247,7 @@ mover, alinear, recortar, inclinar, perspectiva, volteo, texto
 personalizado, rellenar pintado, mezcla, degradados, mosaicos, pinceles,
 lápiz, rotulador, aerografo, goma, escritura estilo caligrafía (tinta),
 dibujo a mano alzada, clonado, saneado, enfoque, desenfoque, emborronar,
-quemar...![](images/image02.jpg)
+quemar...
 
 También incluye muchos filtros y efectos para aplicar a los dibujos.
 Como quitar ojos rojos en las fotografías, distorsiones, sombras,
@@ -269,14 +268,14 @@ proporcionado.
 
  
 
-Vlc 
+Vlc ![](images/image04.jpg)
 ---
 
 Vlc es un programa para reproducir tanto música o vídeos en una gran
 cantidad de formatos distintos (mp3, avi, mkv, mp4, ogv, etc). También
 permite incorporar subtítulos con formato srt a un vídeo arrastrando
 directamente el archivo de subtítulos a la imagen del vídeo en
-reproducción.![](images/image04.jpg)
+reproducción.
 
 Para usar la aplicación diríjase a:
 
@@ -383,10 +382,10 @@ pero eso ya se escapa de este manual.
 
  
 
-Administración del sistema {.c5 .c16}
+Administración del sistema 
 ==========================
 
-### Sistema de archivos {.c5 .c16}
+### Sistema de archivos 
 
         Los documentos personales se guardan por defecto en una carpeta
 llamada home. Se puede acceder a esta carpeta desde:
@@ -427,7 +426,7 @@ La carpeta personal del usuario “invitado” se encuentra en la ruta:
  /home/invitado/                                                          
 
 
-### Cuenta de superusuario {.c5 .c16}
+### Cuenta de superusuario 
 
         Los sistemas Linux como el que ha sido instalado en el ordenador
 que tenga tienen distintos roles de usuario, al igual que en una empresa
@@ -465,9 +464,9 @@ equipo, para ello escribiremos el comando:
 
 [](#)[](#)
 
-+--------------------------------------------------------------------------+
-| exit                                                                     |
-+--------------------------------------------------------------------------+
+
+ exit                                                                     
+
 
 Instalar programas 
 ------------------
